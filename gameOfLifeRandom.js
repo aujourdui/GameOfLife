@@ -1,6 +1,6 @@
 let countCreateWorld = 0
 
-while(countCreateWorld < 4) {
+while(countCreateWorld < 5) {
 
 if(countCreateWorld == 0) {
   var world = [];
