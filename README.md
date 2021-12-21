@@ -11,7 +11,10 @@ Basic rule
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 My code is just showing console to make worlds and show a console.
-GameOfLifeWorld => We can create a world manually. GameOfLifeRandom => We can create a world automatically.
+
+GameOfLifeWorld => We can create a world manually. 
+
+GameOfLifeRandom => We can create a world automatically.
 
 
 Caution
